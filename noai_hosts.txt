@@ -2,14 +2,11 @@
 ### An AI Blocklist in host format made with love by laylavish
 
 # Home Project: https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist
-# Feel free to submit a pull request if you find more sites!
 # Thank you for all the stars, but the real star is you!
 
-### Please support authentic artists! Whether it be commissions or donations, an amount of any size helps!
 
 # I love you.
 # You are valid.
-# LGBTQ+ Rights!
 # Keep your chin up--we will get through this together <33
 # Have a happy day!
 
@@ -512,8 +509,6 @@
 0.0.0.0 future-pedia.com
 0.0.0.0 pixai.com
 0.0.0.0 magicstudio.com
-0.0.0.0 openai.com
-0.0.0.0 chatgpt.com
 0.0.0.0 zebrabi.com
 0.0.0.0 mixcomfy.com
 0.0.0.0 scenario.com
@@ -2300,5 +2295,6 @@
 0.0.0.0 www.homediningkitchen.com
 0.0.0.0 www.psichologyanswers.com
 0.0.0.0 www.umatechnology.org
+
 
 
